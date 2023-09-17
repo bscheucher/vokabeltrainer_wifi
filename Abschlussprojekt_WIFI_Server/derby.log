@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Sep 01 11:12:28 CEST 2023:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): Instanz a816c00e-018a-5003-eac2-00000ed895a8
+für Datenbankverzeichnis C:\Java\DB_Vokabeltrainer mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@6108b2d7
+Geladen aus file:/C:/Java/db-derby-10.16.1.1-bin/db-derby-10.16.1.1-bin/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.7+7
+user.dir=C:\Users\Startklar\eclipse-workspace\Abschlussprojekt_WIFI_Server
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
